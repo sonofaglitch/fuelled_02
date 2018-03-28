@@ -1,0 +1,192 @@
+html{
+    font-size: 1em;
+}
+
+
+body{
+    background-color: white;
+    color: #262626;
+    font-family: 'Playfair Display', serif;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+
+/*-- Golden ration font sizes --*/
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+}
+
+h1 {
+    font-family: 'Muli', sans-serif;
+    font-size: 6.854em;
+    margin-top: 0;
+}
+
+h2 {font-size: 4.236em;}
+
+h3 {font-size: 2.618em;}
+
+h4 {font-size: 1.618em;}
+
+
+small, .font_small {font-size: 0.618em;}
+
+
+.container{
+    box-sizing: border-box;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 0%;
+}    
+
+
+h1{
+    font-size: 2.4em;
+}
+
+
+.headerContainer{
+    padding-top: 2%;
+}
+
+
+#logoContainer{
+    padding: 0;
+    padding-top: 0;
+}
+
+
+#headerLogo{
+    padding: 0;
+    padding-bottom: 0.75em;
+    padding-left: 0;
+    padding-right: 0;
+    width: 50%;
+}
+
+
+.navContainer{
+    padding: 0;
+}
+
+
+.navbar-header{
+    padding-top: 6.5%;
+}
+
+
+.nav{
+    background-color: white;
+    padding: 0;
+}
+
+
+
+.nav li{
+    font-family: 'Futura PT', sans-serif;
+    text-align: center;
+    font-size: 1.10em;
+    width: 25%;
+    text-align: center;
+    float: left; 
+    padding-top: 2%;
+}
+
+.nav li a{
+    background-color: white;
+    color: #333;
+    font-size: 1em;
+    text-align: center;
+    text-decoration: none;    
+    width: 100%;
+}
+
+
+.nav li a:hover{
+    background-color: white;
+    color: seagreen;
+    width: 100%;
+}
+
+
+
+currentLink{
+    background-color: white;
+    color: darkgray;
+    font-size: 1em;
+    text-align: center;
+    text-decoration: none;    
+    width: 100%;
+}
+
+#currentLink:hover{
+    background-color: white;
+    color: darkgray;
+    font-size: 1em;
+    text-align: center;
+    text-decoration: none;    
+    width: 100%;
+}
+
+#currentLink{
+    background-color: white;
+    color: darkgray;
+    font-size: 1em;
+    text-align: center;
+    text-decoration: none;    
+    width: 100%;
+}
+
+#currentLink:hover{
+    background-color: white;
+    color: darkgray;
+    font-size: 1em;
+    text-align: center;
+    text-decoration: none;    
+    width: 100%;
+}
+
+
+
+#videoWrapper{
+    height: 80%;
+    overflow: hidden;
+}
+
+
+#teaser{
+    height: 80%;
+    width: 100%;
+    background: white;
+}
+
+
+#backgroundImage{
+    display: none;
+}
+
+
+p{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    font-size: 1.25em;
+    padding-top: 6%;
+    padding-bottom: 8%;
+    padding-left: 0;
+    padding-right: 0;
+   
+}
+
+
+li{
+    font-family: 'Futura PT', sans-serif;
+    text-align: center;
+    font-size: 1.10em;
+    width: 25%;
+    text-align: center;
+    float: left; 
+    padding-top: 2%;
+}

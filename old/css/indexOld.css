@@ -1,0 +1,118 @@
+html{
+    font-size: 1em;
+}
+
+body{
+    background-color: white;
+    font-family: 'Playfair Display', serif;
+    font-weight: 300;
+    line-height: 1.5;
+    color: #262626;
+}
+
+
+/*-- Golden ration font sizes --*/
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+}
+
+h1 {
+    font-family: 'Muli', sans-serif;
+    margin-top: 0;
+    font-size: 6.854em;
+}
+
+h2 {font-size: 4.236em;}
+
+h3 {font-size: 2.618em;}
+
+h4 {font-size: 1.618em;}
+
+small, .font_small {font-size: 0.618em;}
+
+
+
+
+.container{
+    box-sizing: border-box;
+    padding-top: 2%;
+}    
+
+
+h1{
+    font-size: 2.4em;
+}
+
+
+#headerLogo{
+    padding: 0;
+    padding-top: 2em;
+    height: 65%;
+    width: 65%;
+}
+
+
+.navbar-header{
+    padding-top: 15%;
+}
+
+
+.nav{
+    padding: 0;
+    background-color: white;
+}
+
+
+.nav li a{
+    color: #333;
+    font-size: 1.2em;
+    background-color: white;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    margin: 1em;
+    margin-bottom: 0;
+}
+
+.nav li a:hover{
+    color: mediumseagreen;
+    background-color: white;
+    width: 100%;
+}
+
+.jumboCarousel{
+    height: 80%;
+    overflow: hidden;
+    padding-top: 0.5em;
+}
+
+.jumboCarousel img{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+p{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    font-size: 1.5em;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-kerning: 100px;
+}
+
+
+li{
+    font-family: 'Futura PT', sans-serif;
+    text-align: center;
+    font-size: 1.10em;
+    width: 25%;
+    text-align: center;
+    float: left; 
+}
